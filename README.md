@@ -1,1 +1,1 @@
-# Project---Gesture-Driven-Media-Control-System
+# Gesture-Driven-Media-Control-System
