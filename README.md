@@ -1,1 +1,4 @@
 # Gesture-Driven-Media-Control-System
+This project implements a real-time hand gesture–based system that enables users to control media playback using a webcam, without relying on physical input devices. The application captures live video input and processes it using computer vision techniques to detect and track human hands. Finger positions are analyzed to recognize predefined gestures, which are then mapped to media control actions such as play/pause, volume adjustment, and track navigation.
+
+The system is developed using Python and integrates multiple libraries, including OpenCV for video processing, cvzone for hand landmark detection, and automation tools to trigger operating system–level media controls. A cooldown mechanism is incorporated to prevent repeated unintended actions, ensuring smoother and more reliable interaction.
